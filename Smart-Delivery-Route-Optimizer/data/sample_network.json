@@ -1,0 +1,33 @@
+{
+  "locations": [
+    "RK PG",
+    "NexaUltra Stay PG",
+    "Alard Univercity",
+    "Cafe De Flora",
+    "Jigri Katta",
+    "Dmart Hinjewadi",
+    "Pheonix Millenium Mall Wakad"
+  ],
+  "coordinates": {
+    "RK PG": {"latitude": 18.5900, "longitude": 73.7380},
+    "NexaUltra Stay PG": {"latitude": 18.5850, "longitude": 73.7410},
+    "Alard Univercity": {"latitude": 18.6130, "longitude": 73.7370},
+    "Cafe De Flora": {"latitude": 18.5900, "longitude": 73.7500},
+    "Jigri Katta": {"latitude": 18.5970, "longitude": 73.7470},
+    "Dmart Hinjewadi": {"latitude": 18.5900, "longitude": 73.7570},
+    "Pheonix Millenium Mall Wakad": {"latitude": 18.5986, "longitude": 73.7635}
+  },
+  "roads": [
+    {"from": "RK PG", "to": "NexaUltra Stay PG", "distance": 2.4},
+    {"from": "RK PG", "to": "Alard Univercity", "distance": 4.8},
+    {"from": "RK PG", "to": "Jigri Katta", "distance": 3.7},
+    {"from": "NexaUltra Stay PG", "to": "Alard Univercity", "distance": 3.3},
+    {"from": "NexaUltra Stay PG", "to": "Pheonix Millenium Mall Wakad", "distance": 4.1},
+    {"from": "Alard Univercity", "to": "Cafe De Flora", "distance": 2.6},
+    {"from": "Alard Univercity", "to": "Jigri Katta", "distance": 3.9},
+    {"from": "Cafe De Flora", "to": "Dmart Hinjewadi", "distance": 6.2},
+    {"from": "Cafe De Flora", "to": "Jigri Katta", "distance": 2.8},
+    {"from": "Jigri Katta", "to": "Dmart Hinjewadi", "distance": 5.1},
+    {"from": "Pheonix Millenium Mall Wakad", "to": "Dmart Hinjewadi", "distance": 8.4}
+  ]
+}

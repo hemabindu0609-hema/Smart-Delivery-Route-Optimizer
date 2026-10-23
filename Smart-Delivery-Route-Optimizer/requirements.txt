@@ -1,0 +1,4 @@
+streamlit>=1.49,<2.0
+networkx>=3.2,<4.0
+matplotlib>=3.8,<4.0
+pydeck>=0.8,<1.0
